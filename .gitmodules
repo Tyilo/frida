@@ -1,21 +1,28 @@
 [submodule "capstone"]
 	path = capstone
 	url = git://github.com/frida/capstone.git
+	branch = master
 [submodule "frida-gum"]
 	path = frida-gum
 	url = git://github.com/frida/frida-gum.git
+	branch = master
 [submodule "frida-core"]
 	path = frida-core
 	url = git://github.com/frida/frida-core.git
+	branch = master
 [submodule "frida-python"]
 	path = frida-python
 	url = git://github.com/frida/frida-python.git
+	branch = master
 [submodule "frida-node"]
 	path = frida-node
 	url = git://github.com/frida/frida-node.git
+	branch = master
 [submodule "frida-clr"]
 	path = frida-clr
 	url = git://github.com/frida/frida-clr.git
+	branch = master
 [submodule "frida-qml"]
 	path = frida-qml
 	url = git://github.com/frida/frida-qml.git
+	branch = master
